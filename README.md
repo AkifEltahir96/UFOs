@@ -5,10 +5,8 @@ The purpose of this analysis is to provide data on UFO sightings across the worl
 
 ## Results
 
-With the additional criteria some users might initally filter down the criteria with the most options first. For example, users will probably preform searches using country > state > city to trim their options. 
-![UFO-Sighting-Search.png](Images/UFO-Sighting-Search.png)
+With the additional criteria some users might initally filter down the criteria with the most options first. For example, users will probably preform searches using country > state > city to trim their options (yellow background). Next if users want more specific data, they will use the date and shape criteria to seek a single or many specific UFO sightings for their research (red background).
 
-Next if users want more specific data, they will use the date and shape criteria to seek a single or many specific UFO sightings for their research.
 ![UFO-Sighting-Search.png](Images/UFO-Sighting-Search.png)
 
 ## Summary
